@@ -27,6 +27,11 @@ Para abrir o cypress
 npm run cypress open
 
 ```
-**Criando os testes**
+**Para testar os testes**
 
+```
+npm run cypress open
 
+```
+
+**Desenvolvido por Viviane Aguiar**
